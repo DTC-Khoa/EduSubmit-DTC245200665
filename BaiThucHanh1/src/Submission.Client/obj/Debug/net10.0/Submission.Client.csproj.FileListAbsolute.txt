@@ -1,0 +1,14 @@
+C:\Users\ACER\BaiThucHanh1\src\Submission.Client\bin\Debug\net10.0\Submission.Client.exe
+C:\Users\ACER\BaiThucHanh1\src\Submission.Client\bin\Debug\net10.0\Submission.Client.deps.json
+C:\Users\ACER\BaiThucHanh1\src\Submission.Client\bin\Debug\net10.0\Submission.Client.runtimeconfig.json
+C:\Users\ACER\BaiThucHanh1\src\Submission.Client\bin\Debug\net10.0\Submission.Client.dll
+C:\Users\ACER\BaiThucHanh1\src\Submission.Client\bin\Debug\net10.0\Submission.Client.pdb
+C:\Users\ACER\BaiThucHanh1\src\Submission.Client\obj\Debug\net10.0\Submission.Client.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\BaiThucHanh1\src\Submission.Client\obj\Debug\net10.0\Submission.Client.AssemblyInfoInputs.cache
+C:\Users\ACER\BaiThucHanh1\src\Submission.Client\obj\Debug\net10.0\Submission.Client.AssemblyInfo.cs
+C:\Users\ACER\BaiThucHanh1\src\Submission.Client\obj\Debug\net10.0\Submission.Client.csproj.CoreCompileInputs.cache
+C:\Users\ACER\BaiThucHanh1\src\Submission.Client\obj\Debug\net10.0\Submission.Client.dll
+C:\Users\ACER\BaiThucHanh1\src\Submission.Client\obj\Debug\net10.0\refint\Submission.Client.dll
+C:\Users\ACER\BaiThucHanh1\src\Submission.Client\obj\Debug\net10.0\Submission.Client.pdb
+C:\Users\ACER\BaiThucHanh1\src\Submission.Client\obj\Debug\net10.0\Submission.Client.genruntimeconfig.cache
+C:\Users\ACER\BaiThucHanh1\src\Submission.Client\obj\Debug\net10.0\ref\Submission.Client.dll
